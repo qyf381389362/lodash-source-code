@@ -1,0 +1,26 @@
+{
+  "name": "lodash-source-code",
+  "version": "1.0.0",
+  "description": "lodash source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qyf381389362/lodash-source-code.git"
+  },
+  "keywords": [
+    "lodash",
+    "javaScript"
+  ],
+  "author": "qinyufei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qyf381389362/lodash-source-code/issues"
+  },
+  "homepage": "https://github.com/qyf381389362/lodash-source-code#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
