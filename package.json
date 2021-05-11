@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/qyf381389362/lodash-source-code#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
